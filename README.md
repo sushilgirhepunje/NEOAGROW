@@ -10,18 +10,20 @@ NEOAGROW is a full-stack e-commerce application built using the MERN stack, dedi
 - Seller Dashboard: Tools for sellers to manage inventory and sales.
 - Community Forums: Engaging discussions and knowledge sharing.
   
-[Technologies Used]
-Frontend: React for the user interface.
-Backend: Node.js and Express.js for server-side development.
-Database: MongoDB for storing data.
-Authentication: JSON Web Tokens (JWT) for secure authentication.
-Getting Started
-Prerequisites
-Node.js and npm installed.
-MongoDB instance.
-Installation
-Clone the repository and install dependencies:
+## Technologies Used
+- Frontend: React for the user interface.
+- Backend: Node.js and Express.js for server-side development.
+- Database: MongoDB for storing data.
+- Authentication: JSON Web Tokens (JWT) for secure authentication.
 
+## Getting Started
+- Prerequisites
+- Node.js and npm installed.
+- MongoDB instance.
+- Installation
+
+## Clone the repository and install dependencies:
+```
 git clone https://github.com/sushilgirhepunje/e-commerce-agrotech.git
 cd e-commerce-agrotech
 npm install
@@ -30,7 +32,6 @@ Create a .env file in the root directory and add necessary environment variables
 
 Usage
 Start the backend server:
-```
 
 bash
 Copy code
