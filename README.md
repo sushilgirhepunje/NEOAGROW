@@ -3,13 +3,14 @@
 NEOAGROW is a full-stack e-commerce application built using the MERN stack, dedicated to serving the agricultural community by providing a seamless platform for buying and selling agricultural products.
 
 ## Features
-User Authentication: Secure authentication and authorization for users.
-Product Listings: Detailed listings with images and descriptions.
-Shopping Cart: Easy management of products in the cart for buyers.
-Order Management: Tracking orders and viewing order history.
-Seller Dashboard: Tools for sellers to manage inventory and sales.
-Community Forums: Engaging discussions and knowledge sharing.
-Technologies Used
+- User Authentication: Secure authentication and authorization for users.
+- Product Listings: Detailed listings with images and descriptions.
+- Shopping Cart: Easy management of products in the cart for buyers.
+- Order Management: Tracking orders and viewing order history.
+- Seller Dashboard: Tools for sellers to manage inventory and sales.
+- Community Forums: Engaging discussions and knowledge sharing.
+  
+[Technologies Used]
 Frontend: React for the user interface.
 Backend: Node.js and Express.js for server-side development.
 Database: MongoDB for storing data.
