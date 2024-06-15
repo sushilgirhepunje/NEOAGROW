@@ -1,7 +1,8 @@
 # NEOAGROW - MERN E-commerce App for Agricultural Products
+
 NEOAGROW is a full-stack e-commerce application built using the MERN stack, dedicated to serving the agricultural community by providing a seamless platform for buying and selling agricultural products.
 
-Features
+## Features
 User Authentication: Secure authentication and authorization for users.
 Product Listings: Detailed listings with images and descriptions.
 Shopping Cart: Easy management of products in the cart for buyers.
@@ -28,6 +29,7 @@ Create a .env file in the root directory and add necessary environment variables
 
 Usage
 Start the backend server:
+```
 
 bash
 Copy code
@@ -37,14 +39,11 @@ Start the React frontend:
 bash
 Copy code
 npm run client
-Visit http://localhost:3000 in your browser to access the KrishiConnect app.
+Visit http://localhost:3000 in your browser to access the NEOAGROW app.
+```
 
-Contributing
+### Contributing
 Contributions are welcome! If you have suggestions, bug reports, or feature requests, feel free to open an issue or submit a pull request.
 
-License
+### License
 This project is licensed under the MIT License.
-
-KrishiConnect aims to streamline agricultural product transactions. Join us in building a platform that empowers farmers and agricultural communities worldwide!
-
-For support or inquiries, contact us at tilaktalwekar@gmail.com.
